@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+*{ 
+   font-family: 'Roboto', sans-serif;
+   
+}
+
+.bg-blue{
+
+   background-color: rgba(27, 85, 131, 0.5);
+
+}
+
+
+
+#botonera img{
+       width: 150px;
+}
+
+
+.ofrecemos__articulo{
+
+   font-family: 'Roboto', sans-serif;
+}
+
+
+.pie__icon--sm{
+   width: 40px;   
+}
+
+.pie{
+   padding:30px;
+   display: flex;
+   flex-direction: row;
+   align-items: center;
+   
+   margin-top: 50px;
+   }
+
+
